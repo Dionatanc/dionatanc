@@ -1,6 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Dionatan</h1>
 
-I'm Dionatan,  I'm a Software QA Analyst at Stone/Linx, and I've been working in tech since 2010. I'm from Brazil, and I'm currently living in Porto Alegre.
+
+I'm a Software QA Analyst at Stone/Linx, and I've been working in tech since 2010. I'm from Brazil, and I'm currently living in Porto Alegre.
 
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dionatanc)
 [![Linkedin: dionatan](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/carvalhodionatan/)](https://www.linkedin.com/in/carvalhodionatan/)
