@@ -96,10 +96,6 @@ Welcome to my profile! ✨
 ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 </div>
 
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/21q6zoxrzq55odgdg3r7xcesq)
-</div>
-
 ## 📫 Contact
 
  Se precisar de ajuda ou tiver dúvidas e sugestões, entre em contato comigo 😉 
