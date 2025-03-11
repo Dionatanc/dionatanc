@@ -38,7 +38,7 @@ Welcome to my profile! ✨
 <div align="center">
   <a href="https://ayo.so/"></a>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dionatanc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dionatanc&layout=compact&langs_count=6&theme=radical&hide=html,css,javascript,typescript,GLSL,PLpgSQL,PLSQL,Roff,TSQL,Dockerfile,Makefile,C+,C#,C++ ,C++,"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dionatanc&layout=compact&langs_count=6&theme=dracula&hide=html,css,javascript,typescript,GLSL,PLpgSQL,PLSQL,Roff,TSQL,Dockerfile,Makefile,C+,C#,C++ ,C++,"/>
 
 
 
