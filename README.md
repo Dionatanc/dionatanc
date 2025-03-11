@@ -1,10 +1,10 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Bulletdev=Bulletdev) 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=dionatan=dionatan) 
 
 
-<div align="left"> <a href="https://www.hackerrank.com/craquebullet" title="HackerRank Profile" target="_blank" rel="noopener noreferrer"> <img width="22" src="https://i.ibb.co/P5W5dLW/hackerrank.png"> HackerRank </a> <a href="https://www.credly.com/users/michael-bullet/" title="HackerRank Profile" target="_blank" rel="noopener noreferrer"> <img width="25" src="https://i.ibb.co/b4xrkRV/icons8-credly-80-1.png"> Credly </a> <a href="https://stackoverflow.com/users/27412594/michael-bullet?tab=profile" title="Stack Overflow Profile" target="_blank" rel="noopener noreferrer"> <img width="22" src="https://i.ibb.co/W67KFp9/768px-Stack-Overflow-icon-svg.png"> Stack Overflow </a>
-	<a href="https://www.chess.com/member/craquebullet" title="Chess.com" target="_blank" rel="noopener noreferrer"> <img width="18" src="https://i.ibb.co/M7S1LKr/phpk-XK09k.png"> Chess.com </a> <a href="https://www.twitch.tv/bulletonrails" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/twitch/status/bulletonrails"> </a> 
+<div align="left"> <a href="https://www.hackerrank.com/" title="HackerRank Profile" target="_blank" rel="noopener noreferrer"> <img width="22" src="https://i.ibb.co/P5W5dLW/hackerrank.png"> HackerRank </a> <a href="https://www.credly.com/users//" title="HackerRank Profile" target="_blank" rel="noopener noreferrer"> <img width="25" src="https://i.ibb.co/b4xrkRV/icons8-credly-80-1.png"> Credly </a> <a href="https://stackoverflow.com/users/27412594/?tab=profile" title="Stack Overflow Profile" target="_blank" rel="noopener noreferrer"> <img width="22" src="https://i.ibb.co/W67KFp9/768px-Stack-Overflow-icon-svg.png"> Stack Overflow </a>
+	<a href="https://www.chess.com/member/" title="Chess.com" target="_blank" rel="noopener noreferrer"> <img width="18" src="https://i.ibb.co/M7S1LKr/phpk-XK09k.png"> Chess.com </a> <a href="https://www.twitch.tv/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/twitch/status/"> </a> 
 </div>
 
 	
@@ -36,7 +36,7 @@ Welcome to my profile! ✨
 ## 📊 Statistics
 
 <div align="center">
-  <a href="https://ayo.so/bullet"></a>
+  <a href="https://ayo.so/"></a>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Dionatanc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dionatanc&layout=compact&langs_count=6&theme=radical&hide=html,css,javascript,typescript,GLSL,PLpgSQL,PLSQL,Roff,TSQL,Dockerfile,Makefile,C+,C#,C++ ,C++,"/>
 
@@ -108,7 +108,7 @@ Welcome to my profile! ✨
   <a href="https://www.linkedin.com/in/carvalhodionatan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   
- <a href="https://dev.to/bulletdev">
+ <a href="https://dev.to/">
   <img alt="Dionatan's Dev.to" width="120em" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
 	 <a href="https://medium.com/@dionatan"> <img alt="Dionatan's Medium" width="120em" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 		 
