@@ -17,8 +17,7 @@ Welcome to my profile! ✨
 </div>
 
 - I'm a Quality Assurance analyst, mainly Java, Javascript & Python studying Machine Learning, Deep Learning & Gen IA
-- A fun fact about me:   
-- My  
+- A fun fact about me:
   
 ---
 
