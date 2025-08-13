@@ -3,7 +3,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dionatan=dionatan) 
 
 
-<div align="left"> <a href="https://www.hackerrank.com/" title="HackerRank Profile" target="_blank" rel="noopener noreferrer"> <img width="22" src="https://i.ibb.co/P5W5dLW/hackerrank.png"> HackerRank </a> <a href="https://www.credly.com/users//" title="HackerRank Profile" target="_blank" rel="noopener noreferrer"> <img width="25" src="https://i.ibb.co/b4xrkRV/icons8-credly-80-1.png"> Credly </a> <a href="https://stackoverflow.com/users/27412594/?tab=profile" title="Stack Overflow Profile" target="_blank" rel="noopener noreferrer"> <img width="22" src="https://i.ibb.co/W67KFp9/768px-Stack-Overflow-icon-svg.png"> Stack Overflow </a>
+<div align="left"> <a href="https://www.hackerrank.com/" title="HackerRank Profile" target="_blank" rel="noopener noreferrer"> <img width="22" src="https://i.ibb.co/P5W5dLW/hackerrank.png"> HackerRank </a> <a href="https://www.credly.com/users//" title="HackerRank Profile" target="_blank" rel="noopener noreferrer"> <img width="25" src="https://i.ibb.co/b4xrkRV/icons8-credly-80-1.png"> Credly </a>
 	 <a href="https://www.twitch.tv/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/twitch/status/"> </a> 
 </div>
 
