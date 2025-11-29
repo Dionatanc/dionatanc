@@ -8,7 +8,7 @@
 </div>
 
 	
-## Hi there, I'm Dionatan, but You can call me Dio !
+## Hi there, I'm Dionatan, but You can call me Dionatan !
 
 Welcome to my profile! ✨
 
