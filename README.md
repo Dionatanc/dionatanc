@@ -13,7 +13,7 @@
 Welcome to my profile! ✨
 
 <div>
-  <img align="right" alt="Git-Computador" width="330px" src="https://i.ibb.co/pKnZRJt/OCPJSE17.png"/>
+ // <img align="right" alt="Git-Computador" width="330px" src="https://i.ibb.co/pKnZRJt/OCPJSE17.png"/>
 </div>
 
 - I'm a Quality Assurance analyst, mainly Java, Javascript & Python studying Machine Learning, Deep Learning & Gen IA
